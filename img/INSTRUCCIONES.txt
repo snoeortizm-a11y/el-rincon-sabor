@@ -1,0 +1,43 @@
+CARPETA DE IMÁGENES — Rincón del Sabor
+=======================================
+Nombres exactos para cada imagen:
+
+ENTRADAS:
+  sopa-pepian.jpg
+  tostadas.jpg
+  tamalitos.jpg
+  elotes-locos.jpg
+
+PLATOS FUERTES:
+  pepian-pollo.jpg
+  kaq-ik.jpg
+  jocon.jpg
+  revolcado.jpg
+  hilachas.jpg
+  frijoles-negros.jpg
+
+POSTRES:
+  buñuelos.jpg
+  arroz-leche.jpg
+  platanos-en-mole.jpg
+  torrejas.jpg
+
+BEBIDAS NATURALES:
+  limonada.jpg
+  maracuya.jpg
+  jamaica.jpg
+  tamarindo.jpg
+  horchata.jpg
+  atol-elote.jpg
+
+BEBIDAS ENLATADAS:
+  coca-cola.jpg
+  pepsi.jpg
+  agua-pura.jpg
+  jugo-del-valle.jpg
+
+LOGO:
+  logo-rincon-del-sabor.png
+
+Formato recomendado: JPG · Mínimo 800x600px
+Si no hay imagen, se muestra el emoji automáticamente.
